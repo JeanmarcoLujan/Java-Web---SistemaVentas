@@ -1,0 +1,34 @@
+<!--/. NAV TOP  -->
+<nav class="navbar-default navbar-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav" id="main-menu">
+            <li>
+                <a href="#"><i class="fa fa-table"></i> Mantenedores<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="ListaProductos">Productos</a>
+                    </li>
+                    <li>
+                        <a href="ListaClientes">Clientes</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-chain"></i> Procesos<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="VentaBoleta?estado=ini">Nueva Boleta</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-file"></i> Reportes<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level">
+                    <li>
+                        <a href="RptProductos">Productos</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>
